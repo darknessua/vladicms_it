@@ -1,0 +1,1 @@
+<li><a href="%category_link%" class="current">%category_name%</a></li>
