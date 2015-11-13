@@ -13,6 +13,5 @@ require_once ROOT . '/lib/core.class.php'; // La classe principale "Core"
 require_once ROOT . '/lib/check.class.php'; //Verificare i dati "Check"
 $app = new Bootstrap();
 
-/* Check comment 17:21 12 nov 2015*/
 
 ?>
